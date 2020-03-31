@@ -1,9 +1,0 @@
-C:\Users\games\Desktop\C#\Sem4\Lab6\Z6-WF\bin\Debug\Z6-WF.exe.config
-C:\Users\games\Desktop\C#\Sem4\Lab6\Z6-WF\bin\Debug\Z6-WF.exe
-C:\Users\games\Desktop\C#\Sem4\Lab6\Z6-WF\bin\Debug\Z6-WF.pdb
-C:\Users\games\Desktop\C#\Sem4\Lab6\Z6-WF\obj\Debug\Z6-WF.csprojAssemblyReference.cache
-C:\Users\games\Desktop\C#\Sem4\Lab6\Z6-WF\obj\Debug\Z6_WF.Form1.resources
-C:\Users\games\Desktop\C#\Sem4\Lab6\Z6-WF\obj\Debug\Z6_WF.Properties.Resources.resources
-C:\Users\games\Desktop\C#\Sem4\Lab6\Z6-WF\obj\Debug\Z6-WF.csproj.GenerateResource.cache
-C:\Users\games\Desktop\C#\Sem4\Lab6\Z6-WF\obj\Debug\Z6-WF.exe
-C:\Users\games\Desktop\C#\Sem4\Lab6\Z6-WF\obj\Debug\Z6-WF.pdb
